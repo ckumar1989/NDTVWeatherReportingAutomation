@@ -7,7 +7,7 @@ using WeatherReportingComparator.Common.JSON_Helper;
 namespace WeatherReportingComparator.Tests.UI
 {
     [TestClass]
-    public class SmokeTest : TestBase
+    public class WeatherReportingComparatorTest : TestBase
     {
         [TestMethod, TestCategory("Regression"), Owner("Chitresh")]
         public void CompareWeatherReportingForSpecifiedCity()
