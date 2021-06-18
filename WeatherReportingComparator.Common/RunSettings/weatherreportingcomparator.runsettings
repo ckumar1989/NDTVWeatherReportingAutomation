@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+
+    <!-- Base Urls -->
+    <Parameter name="TestBaseAPIUrl" value="https://api.openweathermap.org/" />  
+    <Parameter name="UIBaseUrl" value="https://www.ndtv.com/" />
+
+    <!-- Common Test Inputs -->
+    <Parameter name="APIKey" value="7fe67bf08c80ded756e598d6f8fedaea" />
+    
+    <!-- Browser Options: firefox, chrome, ie, edge -->
+    <Parameter name="BrowserType" value="chrome" />
+
+  </TestRunParameters>
+</RunSettings>
